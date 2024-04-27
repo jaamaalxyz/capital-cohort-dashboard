@@ -1,5 +1,3 @@
-## Next.js App Router Course - Starter
+# Capital Cohort Dashboard
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This dashboard will provide a wide range of administrative functions for the successful operation of the Capital Cohort project across various online platforms, including web, mobile, and desktop. Its purpose is to ensure financial efficiency for customers worldwide.
